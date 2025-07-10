@@ -1,37 +1,37 @@
 # 📚 Research Assistant - Text Summarizer Extension
 
-**Research Assistant** is a browser extension that uses Google's **Gemini API** to summarize selected text on any webpage. Designed for students, researchers, and professionals, it provides concise and intelligent summaries in just a click.
+**Research Assistant** is a Chrome Extension that summarizes selected text on any webpage using **Google's Gemini API**. It's a lightweight tool built for students, researchers, and busy readers who want to extract key insights quickly without reading the entire content.
 
 ---
 
-## 🚀 Features
+## 🌟 Features
 
-- ✂️ Summarize **selected text** instantly
-- ⚡ Fast, clean, and minimal
-- 🧠 Powered by **Gemini** (Google's advanced LLM)
-- 🌐 Works on most websites
-- 🖱️ Simple interaction: select → right-click → summarize
+- 🖱️ Summarize any **selected text** with right-click
+- ⚡ Fast and responsive
+- 🤖 Powered by **Gemini Pro** (via Google AI API)
+- 🔐 Works locally with no data stored
+- 🧩 Minimal and clean popup UI
 
 ---
 
 ## 🛠️ How It Works
 
-1. Select text on any webpage  
-2. Right-click and choose: **"Summarize with Research Assistant"**  
-3. The extension sends the selected text to the **Gemini API**  
-4. A popup displays the summarized content
+1. Select any paragraph or block of text on a webpage  
+2. Right-click and choose **"Summarize with Research Assistant"**  
+3. The selected text is sent to Gemini API  
+4. A concise summary is displayed in a popup
 
 ---
 
-## 🔐 Requirements
+## 🔧 Setup Instructions
 
-- A valid **Gemini API Key**  
-  (You can get it from [Google AI Studio](https://aistudio.google.com/app/apikey))
+### 🔑 1. Get Gemini API Key
 
----
+1. Go to [Google AI Studio](https://aistudio.google.com/app/apikey)
+2. Generate a Gemini API Key
 
-## 📦 Installation (Developer Mode)
+### 🧪 2. Run in Developer Mode (Local)
 
-1. Clone or download the repository:
+1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/research-assistant-extension.git
+   git clone https://github.com/Sidharth0004/research-assistant.git
